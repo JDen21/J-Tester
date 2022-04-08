@@ -1,4 +1,3 @@
-sample:
 
 import file.class;
 import tester.test;
@@ -22,4 +21,3 @@ class Main{
     }
 }
 
-<!-- piso paluwagan instant millionaire -->
