@@ -21,5 +21,3 @@ class Main{
         test.start();
     }
 }
-
-<!-- piso paluwagan instant millionaire -->
